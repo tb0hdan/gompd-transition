@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/tb0hdan/gompd/v2/mpd/internal/server"
+	"github.com/tb0hdan/gompd-transition/v2/mpd/internal/server"
 )
 
 var (
