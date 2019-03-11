@@ -1,3 +1,1 @@
-module github.com/fhs/gompd/v2
-
-require github.com/fhs/gompd v2.0.0+incompatible
+module github.com/tb0hdan/gompd/v2
